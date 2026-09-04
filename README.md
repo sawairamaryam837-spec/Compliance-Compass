@@ -1486,15 +1486,8 @@ The final result should feel like a $50k–$100k enterprise SaaS product, with p
 
 Complete the implementation end-to-end and verify that there are zero broken navigation links or unfinished placeholder pages before stopping.
 
-This project was built with [Lovable](https://lovable.dev).
 
-## Build with Lovable
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/a037cc6c-7a18-462a-92f3-28feb043dc9a).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
